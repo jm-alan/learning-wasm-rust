@@ -1,5 +1,5 @@
 [package]
-name = "dump"
+name = "learning_wasm"
 version = "0.1.0"
 authors = ["jm <j.maxwell.alan@gmail.com>"]
 edition = "2018"
